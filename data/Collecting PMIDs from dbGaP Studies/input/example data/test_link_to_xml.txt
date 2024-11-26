@@ -1,0 +1,5 @@
+https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000001/phs000001.v3.p1/GapExchange_phs000001.v3.p1.xml
+https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000007/phs000007.v17.p6/GapExchange_phs000007.v17.p6.xml
+https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000007/phs000007.v18.p7/GapExchange_phs000007.v18.p7.xml
+https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000007/phs000007.v19.p7/GapExchange_phs000007.v19.p7.xml
+https://ftp.ncbi.nlm.nih.gov/dbgap/studies/phs000007/phs000007.v21.p8/GapExchange_phs000007.v21.p8.xml
